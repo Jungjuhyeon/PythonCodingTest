@@ -27,7 +27,7 @@ for i in range(num):
         else:
             print(stack[-1])
 
-# 이코드는 시간초과가 뜸.
+# 이코드는 시간초과가 뜸..
 
 # input() 함수를 사용할 경우, 시간초과 에러가 뜨므로 시간단축을 위해 sys.stdin.readline()을 사용한다. 
 # 입출력 속도 비교 : sys.stdin.readline > raw_input() > input()
